@@ -1,5 +1,5 @@
 
-# Ark
+# Ark - A Website Generator
 
 Ark is a static website generator written in Python. It transforms a
 directory of text files into a self-contained website that can be viewed
@@ -23,13 +23,13 @@ See Ark's [documentation][] or the Ark [sample site][] for further details.
 
 
 
-## Installation
+## Installation - Ark
 
 Install directly from the Python Package Index using `pip`:
 
     $ pip install ark
 
-Ark requires Python 3.2 or later.
+Ark requires Python 3.2.0 or later.
 
 
 
